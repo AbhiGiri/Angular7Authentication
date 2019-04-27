@@ -654,7 +654,7 @@ body .table thead th {
   }
 
   .displayTable {
-    background: white
+    background: rgb(131, 5, 5);
   }
 
   .authBlock {
